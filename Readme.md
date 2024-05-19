@@ -2,6 +2,10 @@ Contains items derived from the Met Office Online Archive
 
 https://digital.nmla.metoffice.gov.uk/
 
+
+The [ArchiveDocumentsSpreadsheet](ArchiveDocumentsSpreadsheet) folder contains a spreadsheet listing all the documents in a subset of the collections in the Online Archive.
+
+
 Related links:
 
 * Met Office Catalogue search page: https://library.metoffice.gov.uk/Portal/Default/en-GB/Search/SimpleSearch
