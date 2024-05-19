@@ -3,7 +3,7 @@
 The **MetOfficeArchiveDocuments.xlsx** spreadsheet lists documents in the Met Office's Online Archive at https://digital.nmla.metoffice.gov.uk/. The online archive contains thousands of documents 
 in an extensive hierarchy; it can be hard to get a feel for the range and volume of content when browsing using its web page interface, hence this spreadsheet.
 
-The spreadsheet focuses on documents relating to old observations, including publications containing observations, and so only covers a subset of the top level collections in the archive:
+The spreadsheet focuses on documents relating to old observations, including publications containing observations, and so covers a subset of the top level collections in the archive:
 * Archive Treasures
 * Historic Weather Events
 * UK Observation Data and Reports
@@ -15,6 +15,9 @@ The spreadsheet focuses on documents relating to old observations, including pub
 * International Meteorological Organisations
 * Climate Analysis and Reports
 
+Top-level collections not covered in the spreadsheet:
+* Forecast Data & Analysis
+* Image and Sound
 
 Each row in the spreadsheet relates to a particular archive document. Fields in the spreadsheet are:
 
