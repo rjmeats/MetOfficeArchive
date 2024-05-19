@@ -10,7 +10,7 @@ The Met Office provided tables of British and Irish stations in various publicat
 
 <img src="Images/MonthlyWeatherReportExample.jpg" width=400>
 
-The relevant pages from these volumes have been extracted into the set of PDF files in this folder. (Note that the PDFs are too big for GitHub to display - ~10-100 MB - but can be downloaded.)
+The relevant pages from these volumes have been extracted into the set of PDF files in the [PDFs folder](PDfs). (Note that the PDFs are too big for GitHub to display - ~10-100 MB - but can be downloaded.)
 
 For a period in the 1930s, the Met Office published a detailed Gazetteer of its Daily Weather Report stations, two pages per station, available [here](https://digital.nmla.metoffice.gov.uk/index.php?name=SO_287be104-9fea-4e33-aa77-0f689aa9e484).
 
