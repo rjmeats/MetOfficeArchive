@@ -1,6 +1,6 @@
 # Station List and Tables in Met Office documents
 
-The Met Office published tables listing British and Irish stations in various forms over time:
+The Met Office provided tables of British and Irish stations in various publications and forms over time (images below are just examples):
 
 * [Met Office Annual Reports](https://digital.nmla.metoffice.gov.uk/index.php?name=SO_e75e4cf3-9be6-47f9-9444-0c2debbcef83) 1860s-1911
 
