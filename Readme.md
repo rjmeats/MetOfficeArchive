@@ -12,4 +12,4 @@ Related links:
 
 
 Also:
-* a few items related to the [Danish Meteorological Institute](https://www.dmi.dk/) in the [dmi](dmi) folder
+* a few items related to the [Danish Meteorological Institute](https://www.dmi.dk/) in the [DMI](DMI) folder
