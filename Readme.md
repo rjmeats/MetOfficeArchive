@@ -9,3 +9,7 @@ Related links:
 
 * Met Office Catalogue search page: https://library.metoffice.gov.uk/Portal/Default/en-GB/Search/SimpleSearch
 * CEDA Archive - Met Office MIDAS stations search page: https://archive.ceda.ac.uk/tools/midas_stations
+
+
+Also:
+* a few items related to the [Danish Meteorological Institute](https://www.dmi.dk/) in the [dmi](dmi) folder
