@@ -12,7 +12,6 @@ The spreadsheet focuses on documents relating to old observations, including pub
 * Met Office Science
 * Met Office Technical Met Publications
 * Met Office Open Access Repository
-* International Meteorological Organisations
 * Climate Analysis and Reports
 
 Top-level collections not covered in the spreadsheet:
@@ -32,4 +31,4 @@ Each row in the spreadsheet relates to a particular archive document. Fields in 
 * **Hierarchy Position** and **Level** : give a summary indication of where the document lives in the overall hierarchy. Useful for sorting.
 * **Archive ref no** : Met Office classification scheme: see https://www.metoffice.gov.uk/research/library-and-archive/archive/collections
 
-Data for the spreadsheet was extracted in mid April 2024. It contains a column to indicate which entries are new since the previous extract, in February 2024.
+Data for the spreadsheet was extracted in early July 2024. It contains a column to indicate which entries are new since the previous extract, in April 2024.
