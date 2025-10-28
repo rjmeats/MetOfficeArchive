@@ -31,4 +31,4 @@ Each row in the spreadsheet relates to a particular archive document. Fields in 
 * **Hierarchy Position** and **Level** : give a summary indication of where the document lives in the overall hierarchy. Useful for sorting.
 * **Archive ref no** : Met Office classification scheme: see https://www.metoffice.gov.uk/research/library-and-archive/archive/collections
 
-Data for the spreadsheet was extracted in mid-August 2025, with the DRain volumes updated on 8th September 2025.
+Data for the spreadsheet was extracted in mid-August 2025, with the DRain volumes updated on 28th October 2025.
