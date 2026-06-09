@@ -6,7 +6,7 @@ in an extensive hierarchy; it can be hard to get a feel for the range and volume
 The spreadsheet focuses on documents relating to old observations, including publications containing observations, and so covers a subset of the top level collections in the archive:
 * Archive Treasures
 * Historic Weather Events
-* UK Observation Data and Reports
+* UK and International Observation Data and Reports
 * Met Office General Met Publications [which includes Meteorological Magazine]
 * Met Office Corporate Publications [which includes Met Office Annual Reports]
 * Met Office Science
@@ -16,7 +16,7 @@ The spreadsheet focuses on documents relating to old observations, including pub
 
 Top-level collections not covered in the spreadsheet:
 * Forecast Data & Analysis
-* Image and Sound
+* Audio-Visual
 
 Each row in the spreadsheet relates to a particular archive document. Fields in the spreadsheet are:
 
@@ -31,4 +31,4 @@ Each row in the spreadsheet relates to a particular archive document. Fields in 
 * **Hierarchy Position** and **Level** : give a summary indication of where the document lives in the overall hierarchy. Useful for sorting.
 * **Archive ref no** : Met Office classification scheme: see https://www.metoffice.gov.uk/research/library-and-archive/archive/collections
 
-Data for the spreadsheet was extracted in mid-January 2026.
+Data for the spreadsheet was extracted in mid-January 2026, with the International observations updated in early June 2026.
